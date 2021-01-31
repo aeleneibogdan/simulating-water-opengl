@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\aelen\OneDrive\Desktop\facultate\ACG\BigHW2_AELENEI Bogdan_NICHITA Catalin_1232A\GameEngine\main.cpp(119,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\aelen\OneDrive\Desktop\facultate\ACG\BigHW2_AELENEI Bogdan_NICHITA Catalin_1232A\GameEngine\main.cpp(181,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\aelen\OneDrive\Desktop\facultate\ACG\BigHW2_AELENEI Bogdan_NICHITA Catalin_1232A\GameEngine\main.cpp(182,35): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  GameEngine.vcxproj -> C:\Users\aelen\OneDrive\Desktop\facultate\ACG\BigHW2_AELENEI Bogdan_NICHITA Catalin_1232A\Debug\GameEngine.exe
